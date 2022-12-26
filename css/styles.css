@@ -531,7 +531,7 @@ a[href="https://goo.gl/maps/CPtrU1FHBa2aNyZL9"]
   margin: 0 auto;
   align-items: baseline;
   display: flex;
-  gap: 70px;
+  gap: 94px;
 }
 
 .address-box {
@@ -634,10 +634,6 @@ a[href="https://goo.gl/maps/CPtrU1FHBa2aNyZL9"]
   text-align: center;
   justify-content: center;
   gap: 10px;
-}
-
-.subscribe-box {
-  margin-left: auto;
 }
 
 .subscribe-field {
